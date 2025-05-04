@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pinnepalli Rakesh</h1>
-<h3 align="center">A Final Year Student From Vellore Institute of Technology</h3>
+<h3 align="center">A Final Year Data Science Student From Vellore Institute of Technology</h3>
 
 - 📫 How to reach me **pinnepallirakesh@gmail.com**
 
